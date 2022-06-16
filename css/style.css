@@ -72,7 +72,7 @@ main {
     background: rgba(0,0,0,0.6);
     clip-path: polygon(calc(100% - 30px) 0, 100% 30px, 100% calc(100% - 30px), calc(100% - 30px) 100%, 30px 100%, 0 calc(100% - 30px), 0 30px, 30px 0);
     border-left: 5px solid var(--main-cinza);
-    height: 80%;
+    height: 88%;
 }
 
 /****************************** Equipamentos *****/
@@ -220,15 +220,14 @@ main {
 }
 /** Botões de cores **/
 .cores{
-
-    width: 770px;
-    margin-right:112px;
+    width: 680px;
+    margin-right:100px;
     background: rgba(0,0,0,0.6);
     clip-path: polygon(calc(100% - 30px) 0, 100% 30px, 100% calc(100% - 30px), calc(100% - 30px) 100%, 30px 100%, 0 calc(100% - 30px), 0 30px, 30px 0);
     border-left: 5px solid var(--main-cinza);
-    height: 20%;
+    height: 19%;
     padding: 20px 30px;
-    margin-top: -130px;
+    margin-top: -80px;
     float: right;
 }
 .cores label{
@@ -241,7 +240,7 @@ main {
     cursor: pointer;
     border: none;
     border-radius: 10px;
-    margin: 20px 10px;
+    margin: 10px 10px;
     font-family: 'Teko', sans-serif;
     background-color: red;
     width:90px;
